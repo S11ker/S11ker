@@ -58,6 +58,7 @@ printf '%s\n' \
 ### **CI/CD & Automation**
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible Semaphore](https://img.shields.io/badge/Ansible_Semaphore-000000?style=for-the-badge&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Watchtower](https://img.shields.io/badge/Watchtower-00A8E8?style=for-the-badge&logo=containerd&logoColor=white)
 
@@ -105,6 +106,7 @@ printf '%s\n' \
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Apache Guacamole](https://img.shields.io/badge/Apache_Guacamole-4C9A8B?style=for-the-badge&logo=apacheguacamole&logoColor=white)
 
 ---
 
